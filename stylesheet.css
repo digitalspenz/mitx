@@ -1,0 +1,11 @@
+
+.body{	
+	width: 50%;
+	margin: auto;
+}
+
+.quotes{
+	border: 2px solid white;
+	padding: 20px;
+	text-align: center;
+}
